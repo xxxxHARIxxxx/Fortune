@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align:center;
+    background-color:#f1c5c5;
+    font-family: 'Fondamento', cursive;
+}
+
+
+h1{
+    
+    margin-bottom: 20px;
+}
+
+.placeholder{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.btn-submit{
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.img-poda{
+    height:100vh;
+    
+}
